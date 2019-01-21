@@ -1,0 +1,31 @@
+{
+  "data1":[
+    {
+      "pic":"../../../static/images/sp46.jpg","bPrice":"30.5","nPrice":"23.4"
+    },
+    {
+      "pic":"./static/images/sp47.jpg","bPrice":"28.9","nPrice":"22.9"
+    },
+    {
+      "pic":"./static/images/sp51.jpg","bPrice":"68.9","nPrice":"60.9"
+    }
+  ],
+  "data2":[
+    {
+      "title":"发现好货","sTitle":"高品质生活","pic01":"./static/images/sp04.jpg","pic02":"./static/images/sp05.jpg"
+    }
+  ],
+  "data3":[
+    {
+      "title":"品牌秒杀","sTitle":"满199-100","pic01":"./static/images/sp06.jpg"
+    },
+    {
+      "title":"品类秒杀","sTitle":"低至9.9","pic01":"./static/images/sp07.jpg"
+    }
+  ],
+  "data4":[
+    {
+      "title":"会买专辑","sTitle":"精选全攻略","pic01":"./static/images/sp08.jpg","pic02":"./static/images/sp09.jpg"
+    }
+  ]
+}

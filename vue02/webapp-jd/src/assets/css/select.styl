@@ -1,0 +1,108 @@
+@charset "utf-8"
+
+.contt
+  .nav-box
+    background-color #ffffff
+    position fixed
+    height .75rem
+    .search
+      display block
+      background-color #f1f2f6
+    .circle
+      background-color #ffffff!important
+      i
+        font-size .35rem
+        font-weight 400
+        margin 0 auto
+        color #5d6268!important
+      span
+        color transparent
+
+.menu-left .menu-right
+
+.menu-left
+  position fixed
+  left 0
+  top .75rem
+  overflow-y scroll
+  background-color #f6f6f6
+  height 100%
+  width 1.35rem
+  ul
+    position absolute
+    li
+      padding .29rem 0
+      font-size .18rem
+      width 1.35rem
+      text-align center
+    li.active
+      background-color #ffffff
+      color #000
+      font-size .22rem
+      font-weight 900
+      position relative
+      &:before
+        content ''
+        width 3px
+        height 40%
+        position absolute
+        display block
+        background-color red
+        top .28rem
+        left 0
+.menu-right
+  position inherit
+  right 0
+  left 1.35rem
+  bottom 0
+  background-color #ffffff
+  margin-left 1.35rem
+  margin-top .75rem
+  padding-left .2rem
+  ul
+    background-color #ffffff
+    margin-left
+    margin-bottom .06rem
+    box-shadow 2px 2px 1px #f1f1f1
+    overflow hidden
+    h5
+      font-size .2rem
+      color #2e2e2e
+      margin-top .2rem
+      margin-bottom .2rem
+    li
+      text-align center
+      position relative
+      margin-bottom .35rem
+      a
+        display block
+        position absolute
+        left .05rem
+        top .1rem
+        bottom .1rem
+        right .05rem
+      span
+        display block
+        color #111
+        font-size .2rem
+        height .4rem
+        line-height .4rem
+        text-align center
+        overflow hidden
+      img
+        margin 0 auto
+        width .85rem
+        height .85rem
+      &:nth-child(3n+1)
+        a
+          left 0
+          right .05rem
+      &:nth-child(3n)
+        a
+          left .05rem
+          right 0
+
+.three
+  width 33.33%
+  float left
+

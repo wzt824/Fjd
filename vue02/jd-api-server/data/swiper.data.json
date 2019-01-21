@@ -1,0 +1,28 @@
+{
+  "swiper01":[
+    {
+      "pic":"../../static/images/banner01.jpg"
+    },
+    {
+      "pic":"../../static/images/banner02.jpg"
+    },
+    {
+      "pic":"../../static/images/banner03.jpg"
+    },
+    {
+      "pic":"../../static/images/banner04.jpg"
+    },
+    {
+      "pic":"../../static/images/banner05.jpg"
+    },
+    {
+      "pic":"../../static/images/banner06.jpg"
+    },
+    {
+      "pic":"../../static/images/banner07.jpg"
+    },
+    {
+      "pic":"../../static/images/banner08.jpg"
+    }
+  ]
+}
